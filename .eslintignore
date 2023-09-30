@@ -1,0 +1,22 @@
+.next
+next-env.d.ts
+node_modules
+yarn.lock
+package-lock.json
+.husky
+dist
+/dist/*
+build
+/build/*
+
+test.js
+test1.js
+op.js
+
+# Auto Generated PWA files
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
